@@ -2,5 +2,19 @@
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^29.7.0"
-  }
+  },
+  "name": "svglogomaker",
+  "description": "<!-- App description, link to video, setup and usage instructions -->",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
